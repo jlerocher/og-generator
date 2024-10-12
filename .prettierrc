@@ -1,0 +1,17 @@
+{
+    "printWidth": 80,
+    "bracketSpacing": true,
+    "tabWidth": 4,
+    "proseWrap": "always",
+    "useTabs": false,
+    "singleQuote": false,
+    "semi": true,
+    "trailingComma": "all",
+    "arrowParens": "always",
+    "plugins": [
+        "prettier-plugin-tailwindcss",
+        "prettier-plugin-organize-imports",
+        "prettier-plugin-tailwindcss"
+    ],
+    "tailwindConfig": "tailwind.config.ts"
+}
